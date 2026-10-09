@@ -24,7 +24,18 @@ The platform ingests video transcripts (SRT/TXT), HTML readings, assignments, an
 
 ---
 
+
+EXPLANATION VIDEO LINK : https://drive.google.com/file/d/1g0X9Hyv2q0rqTbwgsEd137tU9XZAyIzG/view?usp=sharing
+
+
+
+
+
 ## 🌐 Live Production Deployment
+
+
+EXPLANATION VIDEO LINK : https://drive.google.com/file/d/1g0X9Hyv2q0rqTbwgsEd137tU9XZAyIzG/view?usp=sharing
+
 
 * **Live Web Application:** [https://coursera-multimodal-intelligence-pl.vercel.app/](https://coursera-multimodal-intelligence-pl.vercel.app/)
 * **Backend API Documentation (Swagger):** `/docs` on active backend host
