@@ -1,5 +1,15 @@
 # 🎓 Coursera Multimodal Intelligence Platform
 
+
+
+
+
+EXPLANATION VIDEO LINK  : https://drive.google.com/file/d/1g0X9Hyv2q0rqTbwgsEd137tU9XZAyIzG/view?usp=sharing
+
+
+
+
+
 [![Production Status](https://img.shields.io/badge/Production-Live%20%26%20Certified-success?style=for-the-badge&logo=vercel)](https://coursera-multimodal-intelligence-pl.vercel.app/)
 [![Automated Tests](https://img.shields.io/badge/Tests-97%2F97%20Passed-brightgreen?style=for-the-badge&logo=pytest)](https://github.com/abhik99/Coursera-Multimodal-Intelligence-Platform)
 [![Python Version](https://img.shields.io/badge/Python-3.11%20%7C%203.12%20%7C%203.13-blue?style=for-the-badge&logo=python)](https://www.python.org/)
